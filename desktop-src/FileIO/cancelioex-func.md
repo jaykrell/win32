@@ -22,7 +22,7 @@ api_location:
 
 # CancelIoEx function
 
-Marks any outstanding I/O operations for the specified file handle. The function only cancels I/O operations in the current process, regardless of which thread created the I/O operation.
+Marks any outstanding I/O operations for the specified file. The function only cancels I/O operations in the current process, regardless of which thread created the I/O operation.
 
 ## Syntax
 
